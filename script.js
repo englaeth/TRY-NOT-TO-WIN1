@@ -564,7 +564,7 @@ function drawScoreBox() {
 }
 
 function drawTopMiddleBox() {
-  const text = 'تابع قناة مدرسة الذكاء الاصطناعي على يوتيوب';
+  const text = 'O & L Projects';
   const textWidth = ctx.measureText(text).width;
 
   const boxWidth = textWidth + 20; // Add some padding
