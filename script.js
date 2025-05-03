@@ -674,7 +674,7 @@ canvas.addEventListener('click', (event) => {
   }
 
   // Check if the top middle box is clicked
-  const text = 'تابع قناة مدرسة الذكاء الاصطناعي على يوتيوب';
+  const text = 'O & L Projects';
   const textWidth = ctx.measureText(text).width;
   const boxWidth = textWidth + 20;
   const boxX = (canvas.width - boxWidth) / 2;
